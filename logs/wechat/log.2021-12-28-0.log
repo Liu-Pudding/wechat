@@ -1,0 +1,43 @@
+2021-12-28 16:07:48 [INFO][cn.ibionic.wechat.WechatApplicationTests][logStarting][55]-> Starting WechatApplicationTests using Java 1.8.0_211 on MacBook-Pro-16.local with PID 10755 (started by liuyuhao in /Users/liuyuhao/Documents/code/ibionic/wechat)
+2021-12-28 16:07:48 [INFO][cn.ibionic.wechat.WechatApplicationTests][logStartupProfileInfo][659]-> No active profile set, falling back to default profiles: default
+2021-12-28 16:07:57 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][71]-> 执行京东定时任务时间: 2021-12-28T16:07:57.599
+2021-12-28 16:07:57 [INFO][cn.ibionic.wechat.WechatApplicationTests][logStarted][61]-> Started WechatApplicationTests in 10.023 seconds (JVM running for 12.898)
+2021-12-28 16:07:57 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][81]-> 查询2021-12-28 15:52:57到2021-12-28 16:07:57之间的订单
+2021-12-28 16:09:30 [INFO][cn.ibionic.wechat.JdTimerTest][logStarting][55]-> Starting JdTimerTest using Java 1.8.0_211 on MacBook-Pro-16.local with PID 11762 (started by liuyuhao in /Users/liuyuhao/Documents/code/ibionic/wechat)
+2021-12-28 16:09:30 [INFO][cn.ibionic.wechat.JdTimerTest][logStartupProfileInfo][659]-> No active profile set, falling back to default profiles: default
+2021-12-28 16:09:34 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][71]-> 执行京东定时任务时间: 2021-12-28T16:09:34.032
+2021-12-28 16:09:34 [INFO][cn.ibionic.wechat.JdTimerTest][logStarted][61]-> Started JdTimerTest in 3.614 seconds (JVM running for 5.007)
+2021-12-28 16:09:34 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][81]-> 查询2021-12-28 15:54:34到2021-12-28 16:09:34之间的订单
+2021-12-28 16:09:34 [INFO][cn.ibionic.wechat.JdTimerTest][jdPayTask][116]-> 执行京东定时任务时间: 2021-12-28T16:09:34.362
+2021-12-28 16:09:34 [INFO][cn.ibionic.wechat.JdTimerTest][jdPayTask][126]-> 查询2021-12-28 15:00:03到2021-12-28 16:05:03之间的订单
+2021-12-28 16:10:06 [INFO][cn.ibionic.wechat.JdTimerTest][logStarting][55]-> Starting JdTimerTest using Java 1.8.0_211 on MacBook-Pro-16.local with PID 12111 (started by liuyuhao in /Users/liuyuhao/Documents/code/ibionic/wechat)
+2021-12-28 16:10:06 [INFO][cn.ibionic.wechat.JdTimerTest][logStartupProfileInfo][659]-> No active profile set, falling back to default profiles: default
+2021-12-28 16:10:09 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][71]-> 执行京东定时任务时间: 2021-12-28T16:10:09.040
+2021-12-28 16:10:09 [INFO][cn.ibionic.wechat.JdTimerTest][logStarted][61]-> Started JdTimerTest in 2.983 seconds (JVM running for 3.98)
+2021-12-28 16:10:09 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][81]-> 查询2021-12-28 15:55:09到2021-12-28 16:10:09之间的订单
+2021-12-28 16:10:09 [INFO][cn.ibionic.wechat.JdTimerTest][jdPayTask][116]-> 执行京东定时任务时间: 2021-12-28T16:10:09.281
+2021-12-28 16:10:09 [INFO][cn.ibionic.wechat.JdTimerTest][jdPayTask][126]-> 查询2021-12-28 14:00:03到2021-12-28 15:05:03之间的订单
+2021-12-28 16:10:50 [INFO][cn.ibionic.wechat.JdTimerTest][logStarting][55]-> Starting JdTimerTest using Java 1.8.0_211 on MacBook-Pro-16.local with PID 12539 (started by liuyuhao in /Users/liuyuhao/Documents/code/ibionic/wechat)
+2021-12-28 16:10:50 [INFO][cn.ibionic.wechat.JdTimerTest][logStartupProfileInfo][659]-> No active profile set, falling back to default profiles: default
+2021-12-28 16:10:53 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][71]-> 执行京东定时任务时间: 2021-12-28T16:10:53.010
+2021-12-28 16:10:53 [INFO][cn.ibionic.wechat.JdTimerTest][logStarted][61]-> Started JdTimerTest in 3.154 seconds (JVM running for 4.136)
+2021-12-28 16:10:53 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][81]-> 查询2021-12-28 15:55:53到2021-12-28 16:10:53之间的订单
+2021-12-28 16:10:53 [INFO][cn.ibionic.wechat.JdTimerTest][jdPayTask][116]-> 执行京东定时任务时间: 2021-12-28T16:10:53.317
+2021-12-28 16:10:53 [INFO][cn.ibionic.wechat.JdTimerTest][jdPayTask][126]-> 查询2021-12-28 14:00:03到2021-12-28 15:00:03之间的订单
+2021-12-28 16:10:53 [INFO][com.zaxxer.hikari.HikariDataSource][getConnection][110]-> HikariPool-1 - Starting...
+2021-12-28 16:10:54 [INFO][com.zaxxer.hikari.HikariDataSource][getConnection][123]-> HikariPool-1 - Start completed.
+2021-12-28 16:13:58 [WARN][com.zaxxer.hikari.pool.HikariPool][run][788]-> HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m4s27ms).
+2021-12-28 16:14:00 [INFO][cn.ibionic.wechat.JdTimerTest][jdPayTask][142]-> 付款完成，向1638152787527用户发送消息
+2021-12-28 16:14:01 [INFO][cn.ibionic.wechat.JdTimerTest][jdPayTask][142]-> 付款完成，向1638152787527用户发送消息
+2021-12-28 16:14:03 [INFO][com.zaxxer.hikari.HikariDataSource][close][350]-> HikariPool-1 - Shutdown initiated...
+2021-12-28 16:14:03 [INFO][com.zaxxer.hikari.HikariDataSource][close][352]-> HikariPool-1 - Shutdown completed.
+2021-12-28 16:21:02 [INFO][cn.ibionic.wechat.WechatApplicationTests][logStarting][55]-> Starting WechatApplicationTests using Java 1.8.0_211 on MacBook-Pro-16.local with PID 18209 (started by liuyuhao in /Users/liuyuhao/Documents/code/ibionic/wechat)
+2021-12-28 16:21:02 [INFO][cn.ibionic.wechat.WechatApplicationTests][logStartupProfileInfo][659]-> No active profile set, falling back to default profiles: default
+2021-12-28 16:21:06 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][71]-> 执行京东定时任务时间: 2021-12-28T16:21:06.872
+2021-12-28 16:21:06 [INFO][cn.ibionic.wechat.WechatApplicationTests][logStarted][61]-> Started WechatApplicationTests in 4.774 seconds (JVM running for 12.834)
+2021-12-28 16:21:06 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][81]-> 查询2021-12-28 16:06:06到2021-12-28 16:21:06之间的订单
+2021-12-28 16:30:40 [INFO][cn.ibionic.wechat.WechatApplicationTests][logStarting][55]-> Starting WechatApplicationTests using Java 1.8.0_211 on MacBook-Pro-16.local with PID 23758 (started by liuyuhao in /Users/liuyuhao/Documents/code/ibionic/wechat)
+2021-12-28 16:30:40 [INFO][cn.ibionic.wechat.WechatApplicationTests][logStartupProfileInfo][659]-> No active profile set, falling back to default profiles: default
+2021-12-28 16:30:43 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][71]-> 执行京东定时任务时间: 2021-12-28T16:30:43.171
+2021-12-28 16:30:43 [INFO][cn.ibionic.wechat.WechatApplicationTests][logStarted][61]-> Started WechatApplicationTests in 3.019 seconds (JVM running for 5.069)
+2021-12-28 16:30:43 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][81]-> 查询2021-12-28 16:15:43到2021-12-28 16:30:43之间的订单

@@ -1,0 +1,62 @@
+2022-01-12 14:43:49 [INFO][cn.ibionic.wechat.WechatApplication][logStarting][55]-> Starting WechatApplication using Java 1.8.0_211 on MacBook-Pro-16.local with PID 88262 (/Users/liuyuhao/Documents/code/ibionic/wechat/target/classes started by liuyuhao in /Users/liuyuhao/Documents/code/ibionic/wechat)
+2022-01-12 14:43:49 [INFO][cn.ibionic.wechat.WechatApplication][logStartupProfileInfo][659]-> No active profile set, falling back to default profiles: default
+2022-01-12 14:43:50 [INFO][org.springframework.boot.web.embedded.tomcat.TomcatWebServer][initialize][108]-> Tomcat initialized with port(s): 80 (http)
+2022-01-12 14:43:50 [INFO][org.apache.coyote.http11.Http11NioProtocol][log][173]-> Initializing ProtocolHandler ["http-nio-80"]
+2022-01-12 14:43:50 [INFO][org.apache.catalina.core.StandardService][log][173]-> Starting service [Tomcat]
+2022-01-12 14:43:50 [INFO][org.apache.catalina.core.StandardEngine][log][173]-> Starting Servlet engine: [Apache Tomcat/9.0.54]
+2022-01-12 14:43:50 [INFO][org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]][log][173]-> Initializing Spring embedded WebApplicationContext
+2022-01-12 14:43:50 [INFO][org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext][prepareWebApplicationContext][290]-> Root WebApplicationContext: initialization completed in 1247 ms
+2022-01-12 14:43:51 [INFO][org.apache.coyote.http11.Http11NioProtocol][log][173]-> Starting ProtocolHandler ["http-nio-80"]
+2022-01-12 14:43:51 [INFO][org.springframework.boot.web.embedded.tomcat.TomcatWebServer][start][220]-> Tomcat started on port(s): 80 (http) with context path ''
+2022-01-12 14:43:51 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][71]-> 执行京东定时任务时间: 2022-01-12T14:43:51.887
+2022-01-12 14:43:51 [INFO][cn.ibionic.wechat.WechatApplication][logStarted][61]-> Started WechatApplication in 2.809 seconds (JVM running for 3.412)
+2022-01-12 14:43:51 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][81]-> 查询2022-01-12 14:28:51到2022-01-12 14:43:51之间的订单
+2022-01-12 14:46:36 [INFO][org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]][log][173]-> Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-12 14:46:36 [INFO][org.springframework.web.servlet.DispatcherServlet][initServletBean][525]-> Initializing Servlet 'dispatcherServlet'
+2022-01-12 14:46:36 [INFO][org.springframework.web.servlet.DispatcherServlet][initServletBean][547]-> Completed initialization in 7 ms
+2022-01-12 14:46:37 [INFO][com.zaxxer.hikari.HikariDataSource][getConnection][110]-> HikariPool-1 - Starting...
+2022-01-12 14:46:37 [INFO][com.zaxxer.hikari.HikariDataSource][getConnection][123]-> HikariPool-1 - Start completed.
+2022-01-12 14:46:37 [INFO][cn.ibionic.wechat.service.baseService.MessageBaseService][urlConvert][52]-> 收到3的消息，内容为2
+2022-01-12 14:48:51 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][71]-> 执行京东定时任务时间: 2022-01-12T14:48:51.893
+2022-01-12 14:48:51 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][81]-> 查询2022-01-12 14:33:51到2022-01-12 14:48:51之间的订单
+2022-01-12 14:53:51 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][71]-> 执行京东定时任务时间: 2022-01-12T14:53:51.923
+2022-01-12 14:53:51 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][81]-> 查询2022-01-12 14:38:51到2022-01-12 14:53:51之间的订单
+2022-01-12 14:58:51 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][71]-> 执行京东定时任务时间: 2022-01-12T14:58:51.906
+2022-01-12 14:58:51 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][81]-> 查询2022-01-12 14:43:51到2022-01-12 14:58:51之间的订单
+2022-01-12 15:03:51 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][71]-> 执行京东定时任务时间: 2022-01-12T15:03:51.910
+2022-01-12 15:03:51 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][81]-> 查询2022-01-12 14:48:51到2022-01-12 15:03:51之间的订单
+2022-01-12 15:08:51 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][71]-> 执行京东定时任务时间: 2022-01-12T15:08:51.917
+2022-01-12 15:08:51 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][81]-> 查询2022-01-12 14:53:51到2022-01-12 15:08:51之间的订单
+2022-01-12 15:13:51 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][71]-> 执行京东定时任务时间: 2022-01-12T15:13:51.915
+2022-01-12 15:13:51 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][81]-> 查询2022-01-12 14:58:51到2022-01-12 15:13:51之间的订单
+2022-01-12 15:18:51 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][71]-> 执行京东定时任务时间: 2022-01-12T15:18:51.924
+2022-01-12 15:18:51 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][81]-> 查询2022-01-12 15:03:51到2022-01-12 15:18:51之间的订单
+2022-01-12 15:23:51 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][71]-> 执行京东定时任务时间: 2022-01-12T15:23:51.943
+2022-01-12 15:23:51 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][81]-> 查询2022-01-12 15:08:51到2022-01-12 15:23:51之间的订单
+2022-01-12 15:28:51 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][71]-> 执行京东定时任务时间: 2022-01-12T15:28:51.933
+2022-01-12 15:28:51 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][81]-> 查询2022-01-12 15:13:51到2022-01-12 15:28:51之间的订单
+2022-01-12 15:33:51 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][71]-> 执行京东定时任务时间: 2022-01-12T15:33:51.936
+2022-01-12 15:33:51 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][81]-> 查询2022-01-12 15:18:51到2022-01-12 15:33:51之间的订单
+2022-01-12 15:38:51 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][71]-> 执行京东定时任务时间: 2022-01-12T15:38:51.955
+2022-01-12 15:38:51 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][81]-> 查询2022-01-12 15:23:51到2022-01-12 15:38:51之间的订单
+2022-01-12 15:43:51 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][71]-> 执行京东定时任务时间: 2022-01-12T15:43:51.948
+2022-01-12 15:43:51 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][81]-> 查询2022-01-12 15:28:51到2022-01-12 15:43:51之间的订单
+2022-01-12 15:48:51 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][71]-> 执行京东定时任务时间: 2022-01-12T15:48:51.952
+2022-01-12 15:48:51 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][81]-> 查询2022-01-12 15:33:51到2022-01-12 15:48:51之间的订单
+2022-01-12 15:53:51 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][71]-> 执行京东定时任务时间: 2022-01-12T15:53:51.960
+2022-01-12 15:53:51 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][81]-> 查询2022-01-12 15:38:51到2022-01-12 15:53:51之间的订单
+2022-01-12 15:58:51 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][71]-> 执行京东定时任务时间: 2022-01-12T15:58:51.983
+2022-01-12 15:58:51 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][81]-> 查询2022-01-12 15:43:51到2022-01-12 15:58:51之间的订单
+2022-01-12 16:03:51 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][71]-> 执行京东定时任务时间: 2022-01-12T16:03:51.965
+2022-01-12 16:03:51 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][81]-> 查询2022-01-12 15:48:51到2022-01-12 16:03:51之间的订单
+2022-01-12 16:10:20 [WARN][com.zaxxer.hikari.pool.HikariPool][run][788]-> HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m12s289ms).
+2022-01-12 16:12:34 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][71]-> 执行京东定时任务时间: 2022-01-12T16:12:34.274
+2022-01-12 16:12:34 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][81]-> 查询2022-01-12 15:57:34到2022-01-12 16:12:34之间的订单
+2022-01-12 16:17:34 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][71]-> 执行京东定时任务时间: 2022-01-12T16:17:34.250
+2022-01-12 16:17:34 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][81]-> 查询2022-01-12 16:02:34到2022-01-12 16:17:34之间的订单
+2022-01-12 16:22:34 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][71]-> 执行京东定时任务时间: 2022-01-12T16:22:34.257
+2022-01-12 16:22:34 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][81]-> 查询2022-01-12 16:07:34到2022-01-12 16:22:34之间的订单
+2022-01-12 16:27:34 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][71]-> 执行京东定时任务时间: 2022-01-12T16:27:34.262
+2022-01-12 16:27:34 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][81]-> 查询2022-01-12 16:12:34到2022-01-12 16:27:34之间的订单
+2022-01-12 16:31:49 [INFO][com.zaxxer.hikari.HikariDataSource][close][350]-> HikariPool-1 - Shutdown initiated...
+2022-01-12 16:31:49 [INFO][com.zaxxer.hikari.HikariDataSource][close][352]-> HikariPool-1 - Shutdown completed.

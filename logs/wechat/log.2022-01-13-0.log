@@ -1,0 +1,10 @@
+2022-01-13 01:15:58 [INFO][cn.ibionic.wechat.WechatApplicationTests][logStarting][55]-> Starting WechatApplicationTests using Java 1.8.0_211 on 192.168.1.11 with PID 59491 (started by liuyuhao in /Users/liuyuhao/Documents/code/ibionic/wechat)
+2022-01-13 01:15:58 [INFO][cn.ibionic.wechat.WechatApplicationTests][logStartupProfileInfo][659]-> No active profile set, falling back to default profiles: default
+2022-01-13 01:16:01 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][71]-> 执行京东定时任务时间: 2022-01-13T01:16:01.279
+2022-01-13 01:16:01 [INFO][cn.ibionic.wechat.WechatApplicationTests][logStarted][61]-> Started WechatApplicationTests in 2.66 seconds (JVM running for 4.564)
+2022-01-13 01:16:01 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][81]-> 查询2022-01-13 01:01:01到2022-01-13 01:16:01之间的订单
+2022-01-13 01:16:27 [INFO][cn.ibionic.wechat.WechatApplicationTests][logStarting][55]-> Starting WechatApplicationTests using Java 1.8.0_211 on 192.168.1.11 with PID 59731 (started by liuyuhao in /Users/liuyuhao/Documents/code/ibionic/wechat)
+2022-01-13 01:16:27 [INFO][cn.ibionic.wechat.WechatApplicationTests][logStartupProfileInfo][659]-> No active profile set, falling back to default profiles: default
+2022-01-13 01:16:30 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][71]-> 执行京东定时任务时间: 2022-01-13T01:16:30.144
+2022-01-13 01:16:30 [INFO][cn.ibionic.wechat.WechatApplicationTests][logStarted][61]-> Started WechatApplicationTests in 2.526 seconds (JVM running for 3.996)
+2022-01-13 01:16:30 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][81]-> 查询2022-01-13 01:01:30到2022-01-13 01:16:30之间的订单
