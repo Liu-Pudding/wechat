@@ -1,5 +1,0 @@
-2021-12-17 23:13:51 [INFO][cn.ibionic.wechat.WechatApplicationTests][logStarting][55]-> Starting WechatApplicationTests using Java 1.8.0_211 on macbook-pro-16 with PID 29039 (started by liuyuhao in /Users/liuyuhao/Documents/code/ibionic/wechat)
-2021-12-17 23:13:51 [INFO][cn.ibionic.wechat.WechatApplicationTests][logStartupProfileInfo][659]-> No active profile set, falling back to default profiles: default
-2021-12-17 23:13:53 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][53]-> 执行京东定时任务时间: 2021-12-17T23:13:53.977
-2021-12-17 23:13:53 [INFO][cn.ibionic.wechat.WechatApplicationTests][logStarted][61]-> Started WechatApplicationTests in 2.387 seconds (JVM running for 3.952)
-2021-12-17 23:13:53 [INFO][cn.ibionic.wechat.config.JdTimer][jdPayTask][63]-> 查询2021-12-17 22:58:53到2021-12-17 23:13:53之间的订单
